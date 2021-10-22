@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l7inkA4D1QIEmGhU+1G2aHb2lO9FMwycqCftO42G1e9tT9YZ+RHPqv3qIzf3LM47uVB2k7WwQuXzXpopJ/edqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrgmi\\OneDrive\\Área de Trabalho\\ProjetoEmCamadasGabriel3b2\\ProjetoEmCamadasGabriel3b2\\ProjetoEmCamadasGabriel3b2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrgmi\\.nuget\\packages\\mysqlconnector\\1.3.14\\mysqlconnector.1.3.14.nupkg.sha512"
+  ],
+  "logs": []
+}
